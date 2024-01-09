@@ -1,0 +1,1453 @@
+[ INFO :  2022-04-24 09:50:57,107 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 09:50:57,107 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 09:52:11,538 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 09:52:11,538 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 09:52:37,213 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 09:52:37,213 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 09:54:43,997 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 09:54:43,997 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 11:11:31,131 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 11:11:31,131 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 11:12:05,021 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 11:12:05,021 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 11:12:06,073 :major3 : __find_clusters_dendrogram() -208 ] __find_clusters_dendrogram completed successfully
+[ INFO :  2022-04-24 11:12:16,779 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 11:12:16,779 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 11:18:24,588 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 11:18:24,588 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 11:27:02,071 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 11:27:02,072 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 11:27:03,162 :major3 : __find_clusters_dendrogram() -208 ] __find_clusters_dendrogram completed successfully
+[ INFO :  2022-04-24 11:28:39,663 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 11:28:39,663 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 11:31:36,936 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 11:31:36,936 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 11:33:43,493 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 11:33:43,493 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 11:48:14,050 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 11:48:14,050 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:06:01,843 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:06:01,843 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:06:51,909 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:06:51,909 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:07:48,803 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:07:48,804 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:09:49,053 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:09:49,053 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:10:12,401 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 12:10:12,401 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 12:10:13,845 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-24 12:15:30,177 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:15:30,177 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:15:58,555 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 12:15:58,555 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 12:15:59,795 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-24 12:21:01,707 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:21:01,707 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:33:38,686 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:33:38,686 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:34:39,222 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:34:39,222 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:35:03,162 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 12:35:03,163 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 12:35:04,507 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-24 12:35:20,100 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 12:35:20,100 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 12:40:59,487 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:40:59,487 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:41:18,485 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 12:41:18,485 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 12:41:19,843 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-24 12:41:36,131 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 12:41:36,132 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 12:41:36,161 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-04-24 12:46:37,931 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 12:46:37,931 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 12:46:39,038 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-24 12:47:37,460 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:47:37,460 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:48:08,595 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 12:48:08,595 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 12:48:09,878 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-24 12:53:41,167 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:53:41,167 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:54:01,887 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 12:54:01,887 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 12:54:03,234 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-24 12:55:19,115 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:55:19,115 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:55:35,469 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:55:35,470 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:55:57,626 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 12:55:57,626 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 12:58:20,442 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 12:58:20,442 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 12:58:42,721 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 12:58:42,721 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 12:58:44,022 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-24 13:03:12,434 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 13:03:12,434 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 13:03:32,387 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 13:03:32,387 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 13:03:33,636 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-24 13:03:34,088 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-04-24 13:03:51,269 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 13:03:51,269 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 13:03:51,299 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-04-24 13:53:46,276 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 13:53:46,276 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 14:02:21,926 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 14:02:21,926 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 14:04:39,383 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 14:04:39,383 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 14:06:14,770 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 14:06:14,770 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 14:08:49,635 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 14:08:49,635 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 14:09:16,460 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 14:09:16,460 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 14:09:17,592 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-24 14:09:18,053 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-04-24 14:09:35,444 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 14:09:35,444 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 14:09:35,459 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-04-24 14:13:11,372 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 14:13:11,372 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 14:13:58,847 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 14:13:58,847 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 14:14:04,231 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 14:14:04,231 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 14:14:15,143 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 14:14:15,143 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 14:14:38,099 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 14:14:38,099 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 14:14:39,313 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-24 14:14:39,758 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-04-24 14:14:52,549 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 14:14:52,549 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 14:14:52,578 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-04-24 14:15:10,140 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 14:15:10,140 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 14:15:30,826 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 14:15:30,826 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 14:15:40,378 :major3 : __find_clusters_dendrogram() -208 ] __find_clusters_dendrogram completed successfully
+[ INFO :  2022-04-24 14:15:40,425 :major3 : agglomerativeClustering() -230 ] agglomerativeClustering completed successfully
+[ INFO :  2022-04-24 14:16:09,171 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 14:16:09,172 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 14:16:09,215 :major3 : agglomerativeClustering() -230 ] agglomerativeClustering completed successfully
+[ INFO :  2022-04-24 14:20:56,966 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 14:20:56,966 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 14:21:20,595 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 14:21:20,595 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 16:05:59,060 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:05:59,060 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:12:06,217 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:12:06,217 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:15:25,124 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:15:25,124 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:31:39,313 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:31:39,313 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:32:41,412 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:32:41,413 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:33:06,081 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 16:33:06,081 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 16:33:17,469 :major3 : __find_clusters_dendrogram() -208 ] __find_clusters_dendrogram completed successfully
+[ INFO :  2022-04-24 16:33:17,520 :major3 : agglomerativeClustering() -230 ] agglomerativeClustering completed successfully
+[ INFO :  2022-04-24 16:33:58,088 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 16:33:58,088 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 16:33:58,145 :major3 : agglomerativeClustering() -230 ] agglomerativeClustering completed successfully
+[ INFO :  2022-04-24 16:36:18,186 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:36:18,186 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:38:50,144 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:38:50,144 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:39:25,628 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ INFO :  2022-04-24 16:39:25,649 :major3 :   startRegression() -601 ] startRegression completed successfully
+[ INFO :  2022-04-24 16:40:43,479 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:40:43,479 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:41:24,945 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ INFO :  2022-04-24 16:41:54,961 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:41:54,961 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:43:42,504 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:43:42,504 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:44:32,913 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:44:32,913 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:45:16,954 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ INFO :  2022-04-24 16:48:01,566 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:48:01,566 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:48:42,809 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ CRITICAL :  2022-04-24 16:48:42,818 :major3 :     startLogistic() -703 ] operands could not be broadcast together with shapes (1599,0) (1599,) 
+[ INFO :  2022-04-24 16:48:42,818 :major3 :     startLogistic() -704 ] startLogistic completed successfully
+[ INFO :  2022-04-24 16:50:07,641 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:50:07,641 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:51:07,441 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:51:07,441 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:55:59,718 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:55:59,718 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 16:56:41,706 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ CRITICAL :  2022-04-24 16:56:41,712 :major3 :     startLogistic() -703 ] operands could not be broadcast together with shapes (200,0) (200,) 
+[ INFO :  2022-04-24 16:56:41,712 :major3 :     startLogistic() -704 ] startLogistic completed successfully
+[ INFO :  2022-04-24 16:57:51,769 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 16:57:51,769 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:00:02,890 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:00:02,891 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:04:40,296 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:04:40,297 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:08:26,917 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:08:26,917 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:14:39,770 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:14:39,770 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:15:46,453 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:15:46,453 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:16:44,379 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:16:44,380 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:18:33,246 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:18:33,246 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:20:30,931 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:20:30,931 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:20:54,549 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:20:54,549 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:20:54,560 :major3 :     pcaReducation() -131 ] pcaReducation completed successfully
+[ INFO :  2022-04-24 17:21:08,791 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:21:08,791 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:21:32,689 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:21:32,689 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:21:47,715 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:21:47,716 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:22:11,990 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:22:11,990 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:28:56,210 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:28:56,211 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 17:31:01,122 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 17:31:01,122 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:13:33,078 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:13:33,078 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:14:38,334 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:14:38,334 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:17:11,312 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:17:11,313 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:20:36,168 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:20:36,168 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:21:50,912 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:21:50,912 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:23:40,392 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:23:40,392 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:24:25,749 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:24:25,749 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:25:21,404 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:25:21,404 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:39:57,910 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:39:57,911 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:41:25,178 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:41:25,178 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:43:07,291 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:43:07,291 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 18:44:18,686 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 18:44:18,686 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:29:42,373 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:29:42,373 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:32:21,263 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:32:21,263 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:33:11,899 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:33:11,900 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:34:45,709 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:34:45,710 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:36:13,918 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 19:36:13,918 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 19:36:20,605 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-24 19:36:20,605 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-24 19:36:39,002 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:36:39,002 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:38:04,006 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:38:04,006 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:40:25,817 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:40:25,817 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:45:09,152 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:45:09,152 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:48:41,214 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:48:41,215 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:52:06,325 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:52:06,325 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:53:26,194 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:53:26,194 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:55:33,480 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:55:33,481 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 19:59:25,591 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 19:59:25,591 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:05:55,741 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:05:55,741 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:06:31,673 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:06:31,673 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:07:52,328 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:07:52,328 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:09:09,577 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:09:09,578 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:10:21,344 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:10:21,344 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:11:26,191 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:11:26,191 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:12:22,334 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:12:22,334 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:15:21,164 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:15:21,164 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:15:53,160 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:15:53,160 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:17:29,844 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:17:29,844 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:18:29,814 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:18:29,814 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:20:16,056 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:20:16,056 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:21:20,281 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:21:20,281 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:22:52,785 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:22:52,786 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:24:06,922 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:24:06,922 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:31:38,401 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:31:38,401 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:57:11,706 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:57:11,706 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 20:57:45,401 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 20:57:45,402 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:10:57,948 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:10:57,948 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:15:16,093 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:15:16,093 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:21:58,678 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:21:58,679 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:25:22,902 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:25:22,902 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:25:56,114 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:25:56,114 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:26:46,482 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:26:46,482 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:27:24,703 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:27:24,703 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:32:20,568 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:32:20,568 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:35:27,219 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:35:27,219 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:37:40,017 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:37:40,017 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:40:51,740 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:40:51,741 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:42:17,324 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:42:17,324 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:42:27,227 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:42:27,227 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:45:09,139 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:45:09,139 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:48:34,135 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:48:34,135 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 21:50:36,192 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 21:50:36,193 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 22:01:19,866 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 22:01:19,866 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 22:04:57,655 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 22:04:57,655 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 22:17:22,229 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 22:17:22,229 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 22:19:17,604 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 22:19:17,604 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 22:21:27,308 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 22:21:27,308 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 22:30:56,316 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 22:30:56,316 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 22:33:19,810 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 22:33:19,810 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 22:34:34,927 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 22:34:34,927 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 22:35:34,315 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 22:35:34,315 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 22:35:58,058 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-24 22:35:58,058 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-24 22:35:58,058 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-24 22:35:58,058 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-24 22:36:41,745 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 22:36:41,745 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 22:37:05,199 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-24 22:37:05,199 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-24 22:37:05,199 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-24 22:37:05,199 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-24 22:37:05,199 :major3 :    __modelCreater() -325 ] RandomForestClassifier,None
+[ INFO :  2022-04-24 22:37:05,200 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-24 22:37:05,200 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ ERROR :  2022-04-24 22:37:05,415 :major3 :      __modeltuner() -417 ] invalid metric or invalaid value of parameter	All estimators failed to fitTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 405, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\utils\validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 841, in fit
+    self._run_search(evaluate_candidates)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 1633, in _run_search
+    evaluate_candidates(ParameterSampler(
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 827, in evaluate_candidates
+    _insert_error_scores(out, self.error_score)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 301, in _insert_error_scores
+    raise NotFittedError("All estimators failed to fit")
+sklearn.exceptions.NotFittedError: All estimators failed to fit
+
+[ INFO :  2022-04-24 22:37:05,417 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-04-24 22:37:05,420 :major3 :         train_get() -504 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 477, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-04-24 22:37:05,422 :major3 :  __datasetcreater() -210 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 201, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\series.py", line 939, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-04-24 22:37:05,423 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-24 22:37:05,423 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-24 23:05:13,395 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:05:13,395 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:05:42,556 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-24 23:05:42,557 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-24 23:05:42,557 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-24 23:05:42,557 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-24 23:05:42,557 :major3 :    __modelCreater() -325 ] RandomForestClassifier,None
+[ INFO :  2022-04-24 23:05:42,557 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-24 23:05:42,557 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ ERROR :  2022-04-24 23:05:42,767 :major3 :      __modeltuner() -417 ] invalid metric or invalaid value of parameter	All estimators failed to fitTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 405, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\utils\validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 841, in fit
+    self._run_search(evaluate_candidates)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 1633, in _run_search
+    evaluate_candidates(ParameterSampler(
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 827, in evaluate_candidates
+    _insert_error_scores(out, self.error_score)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 301, in _insert_error_scores
+    raise NotFittedError("All estimators failed to fit")
+sklearn.exceptions.NotFittedError: All estimators failed to fit
+
+[ INFO :  2022-04-24 23:05:42,769 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-04-24 23:05:42,771 :major3 :         train_get() -504 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 477, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-04-24 23:05:42,773 :major3 :  __datasetcreater() -210 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 201, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\series.py", line 939, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-04-24 23:05:42,774 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-24 23:05:42,774 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-24 23:10:26,052 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:10:26,053 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:12:08,731 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:12:08,732 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:16:22,253 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:16:22,253 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:20:35,942 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:20:35,942 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:22:51,495 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:22:51,495 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:23:21,726 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:23:21,726 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:24:06,976 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:24:06,976 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:25:07,601 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:25:07,602 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:26:10,194 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:26:10,194 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:28:15,295 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:28:15,295 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:30:45,083 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:30:45,083 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:31:38,832 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:31:38,832 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:32:18,479 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:32:18,479 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:35:05,242 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:35:05,242 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:35:59,933 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:35:59,934 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:36:24,785 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:36:24,785 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:37:03,715 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:37:03,715 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:39:09,726 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:39:09,727 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:41:42,289 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:41:42,289 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:42:14,146 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:42:14,146 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:42:49,591 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:42:49,591 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:45:03,157 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:45:03,157 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:49:33,830 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:49:33,830 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:54:23,955 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:54:23,956 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:55:04,374 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:55:04,374 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:56:17,120 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:56:17,120 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:57:39,302 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:57:39,303 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-24 23:58:43,794 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-24 23:58:43,794 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 00:00:14,798 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 00:00:14,799 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 00:02:52,125 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 00:02:52,125 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 00:03:15,025 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 00:03:15,025 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 00:03:15,025 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 00:03:15,025 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 00:03:15,025 :major3 :    __modelCreater() -325 ] RandomForestClassifier,None
+[ INFO :  2022-04-25 00:03:15,026 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 00:03:15,026 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ ERROR :  2022-04-25 00:03:15,239 :major3 :      __modeltuner() -417 ] invalid metric or invalaid value of parameter	All estimators failed to fitTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 405, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\utils\validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 841, in fit
+    self._run_search(evaluate_candidates)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 1633, in _run_search
+    evaluate_candidates(ParameterSampler(
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 827, in evaluate_candidates
+    _insert_error_scores(out, self.error_score)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 301, in _insert_error_scores
+    raise NotFittedError("All estimators failed to fit")
+sklearn.exceptions.NotFittedError: All estimators failed to fit
+
+[ INFO :  2022-04-25 00:03:15,240 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-04-25 00:03:15,242 :major3 :         train_get() -504 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 477, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-04-25 00:03:15,246 :major3 :  __datasetcreater() -210 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 201, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\series.py", line 939, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-04-25 00:03:15,246 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 00:03:15,246 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 00:05:14,105 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 00:05:14,105 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 00:05:42,652 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ ERROR :  2022-04-25 00:05:42,652 :major3 :        __rchecker() -273 ] classification was selected but Regression model was givenRidgeClassifieTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 271, in __rchecker
+    raise Exception("classification was selected but Regression model was given"+i)
+Exception: classification was selected but Regression model was givenRidgeClassifie
+
+[ INFO :  2022-04-25 00:05:42,652 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 00:05:42,652 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 00:05:42,653 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 00:05:42,653 :major3 :    __modelCreater() -325 ] RidgeClassifie,None
+[ ERROR :  2022-04-25 00:05:42,653 :major3 :    __modelCreater() -331 ] name 'RidgeClassifie' is not definedTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 326, in __modelCreater
+    model = eval(f"{model_name}()")
+  File "<string>", line 1, in <module>
+NameError: name 'RidgeClassifie' is not defined
+
+[ INFO :  2022-04-25 00:05:42,653 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ CRITICAL :  2022-04-25 00:05:42,657 :major3 :     startlearning() -443 ] can only concatenate str (not "TypeError") to strTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 405, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\utils\validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 765, in fit
+    base_estimator = clone(self.estimator)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\utils\validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\base.py", line 67, in clone
+    raise TypeError("Cannot clone object '%s' (type %s): "
+TypeError: Cannot clone object 'None' (type <class 'NoneType'>): it does not seem to be a scikit-learn estimator as it does not implement a 'get_params' method.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 437, in startlearning
+    modelframe = self.__modeltuner()
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 415, in __modeltuner
+    logging.error("invalid Paramter\t"+e)
+TypeError: can only concatenate str (not "TypeError") to str
+
+[ INFO :  2022-04-25 09:59:50,616 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 09:59:50,616 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 10:01:35,167 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 10:01:35,167 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 10:03:59,483 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 10:03:59,483 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 10:07:26,355 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 10:07:26,355 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 10:08:32,770 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 10:08:32,770 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 10:08:32,770 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 10:08:32,770 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 10:08:32,770 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 10:08:32,770 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 10:08:32,770 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ ERROR :  2022-04-25 10:08:33,144 :major3 :      __modeltuner() -417 ] invalid metric or invalaid value of parameter	All estimators failed to fitTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 405, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\utils\validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 841, in fit
+    self._run_search(evaluate_candidates)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 1633, in _run_search
+    evaluate_candidates(ParameterSampler(
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 827, in evaluate_candidates
+    _insert_error_scores(out, self.error_score)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 301, in _insert_error_scores
+    raise NotFittedError("All estimators failed to fit")
+sklearn.exceptions.NotFittedError: All estimators failed to fit
+
+[ INFO :  2022-04-25 10:08:33,144 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-04-25 10:08:33,144 :major3 :         train_get() -504 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 477, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-04-25 10:08:33,144 :major3 :  __datasetcreater() -210 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 201, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\series.py", line 939, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-04-25 10:08:33,144 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 10:08:33,144 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 10:09:17,791 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 10:09:17,791 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 10:10:21,801 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 10:10:21,801 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 10:11:17,806 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 10:11:17,806 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 10:11:17,806 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 10:11:17,806 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 10:11:17,806 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 10:11:17,806 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 10:11:17,806 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ ERROR :  2022-04-25 10:11:22,798 :major3 :      __modeltuner() -417 ] invalid metric or invalaid value of parameter	All estimators failed to fitTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 392, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\utils\validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 841, in fit
+    self._run_search(evaluate_candidates)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 1296, in _run_search
+    evaluate_candidates(ParameterGrid(self.param_grid))
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 827, in evaluate_candidates
+    _insert_error_scores(out, self.error_score)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 301, in _insert_error_scores
+    raise NotFittedError("All estimators failed to fit")
+sklearn.exceptions.NotFittedError: All estimators failed to fit
+
+[ INFO :  2022-04-25 10:11:22,798 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-04-25 10:11:22,806 :major3 :         train_get() -504 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 477, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-04-25 10:11:22,814 :major3 :  __datasetcreater() -210 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 201, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\series.py", line 939, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-04-25 10:11:22,815 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 10:11:22,815 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 11:07:47,193 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:07:47,193 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:08:56,653 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:08:56,653 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:09:49,187 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 11:09:49,187 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 11:09:49,187 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 11:09:49,187 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 11:09:49,187 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ INFO :  2022-04-25 11:09:49,187 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-04-25 11:09:49,204 :major3 :         train_get() -504 ] Not sufficent parameterTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 473, in train_get
+    raise Exception("Not sufficent parameter")
+Exception: Not sufficent parameter
+
+[ ERROR :  2022-04-25 11:09:49,213 :major3 :  __datasetcreater() -210 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 201, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\series.py", line 939, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-04-25 11:09:49,213 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 11:09:49,213 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 11:11:07,340 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:11:07,340 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:11:49,545 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 11:11:49,545 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 11:11:49,545 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 11:11:49,545 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 11:11:49,545 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 11:11:49,545 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 11:11:49,545 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ ERROR :  2022-04-25 11:11:54,519 :major3 :      __modeltuner() -417 ] invalid metric or invalaid value of parameter	All estimators failed to fitTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 392, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\utils\validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 841, in fit
+    self._run_search(evaluate_candidates)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 1296, in _run_search
+    evaluate_candidates(ParameterGrid(self.param_grid))
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 827, in evaluate_candidates
+    _insert_error_scores(out, self.error_score)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 301, in _insert_error_scores
+    raise NotFittedError("All estimators failed to fit")
+sklearn.exceptions.NotFittedError: All estimators failed to fit
+
+[ INFO :  2022-04-25 11:11:54,519 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-04-25 11:11:54,519 :major3 :         train_get() -504 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 477, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-04-25 11:11:54,528 :major3 :  __datasetcreater() -210 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 201, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\series.py", line 939, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-04-25 11:11:54,528 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 11:11:54,528 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 11:12:39,338 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:12:39,338 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:14:00,384 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:14:00,384 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:15:02,146 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 11:15:02,146 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 11:15:02,146 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 11:15:02,146 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 11:15:02,146 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 11:15:02,146 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 11:15:02,146 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ ERROR :  2022-04-25 11:15:06,743 :major3 :      __modeltuner() -417 ] invalid metric or invalaid value of parameter	All estimators failed to fitTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 392, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\utils\validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 841, in fit
+    self._run_search(evaluate_candidates)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 1296, in _run_search
+    evaluate_candidates(ParameterGrid(self.param_grid))
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 827, in evaluate_candidates
+    _insert_error_scores(out, self.error_score)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 301, in _insert_error_scores
+    raise NotFittedError("All estimators failed to fit")
+sklearn.exceptions.NotFittedError: All estimators failed to fit
+
+[ INFO :  2022-04-25 11:15:06,751 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-04-25 11:15:06,751 :major3 :         train_get() -504 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 477, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-04-25 11:15:06,759 :major3 :  __datasetcreater() -210 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 201, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\series.py", line 939, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-04-25 11:15:06,759 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 11:15:06,759 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 11:17:55,152 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:17:55,152 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:19:24,257 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 11:19:24,257 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 11:19:24,257 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 11:19:24,257 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 11:19:24,257 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 11:19:24,257 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 11:19:24,257 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ ERROR :  2022-04-25 11:19:29,905 :major3 :      __modeltuner() -417 ] invalid metric or invalaid value of parameter	All estimators failed to fitTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 392, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\utils\validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 841, in fit
+    self._run_search(evaluate_candidates)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 1296, in _run_search
+    evaluate_candidates(ParameterGrid(self.param_grid))
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 827, in evaluate_candidates
+    _insert_error_scores(out, self.error_score)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 301, in _insert_error_scores
+    raise NotFittedError("All estimators failed to fit")
+sklearn.exceptions.NotFittedError: All estimators failed to fit
+
+[ INFO :  2022-04-25 11:19:29,913 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-04-25 11:19:29,913 :major3 :         train_get() -504 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 477, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-04-25 11:19:29,913 :major3 :  __datasetcreater() -210 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 201, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\series.py", line 939, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-04-25 11:19:29,913 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 11:19:29,913 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 11:24:10,760 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:24:10,760 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:24:41,700 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:24:41,700 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:31:48,000 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:31:48,000 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:33:11,088 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:33:11,088 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:37:13,575 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:37:13,575 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:47:08,329 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:47:08,329 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:48:12,606 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:48:12,606 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:51:12,179 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:51:12,179 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:56:27,183 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:56:27,183 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 11:59:56,843 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 11:59:56,843 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:01:39,941 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:01:39,941 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:02:22,282 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 12:02:22,282 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 12:02:22,282 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 12:02:22,282 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 12:02:22,290 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 12:02:22,290 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 12:02:22,290 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ ERROR :  2022-04-25 12:02:26,936 :major3 :      __modeltuner() -417 ] invalid metric or invalaid value of parameter	All estimators failed to fitTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 392, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\utils\validation.py", line 63, in inner_f
+    return f(*args, **kwargs)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 841, in fit
+    self._run_search(evaluate_candidates)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 1296, in _run_search
+    evaluate_candidates(ParameterGrid(self.param_grid))
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_search.py", line 827, in evaluate_candidates
+    _insert_error_scores(out, self.error_score)
+  File "C:\Users\divya\anaconda3\lib\site-packages\sklearn\model_selection\_validation.py", line 301, in _insert_error_scores
+    raise NotFittedError("All estimators failed to fit")
+sklearn.exceptions.NotFittedError: All estimators failed to fit
+
+[ INFO :  2022-04-25 12:02:26,936 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-04-25 12:02:26,945 :major3 :         train_get() -504 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 477, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 931, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1566, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\indexing.py", line 1500, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-04-25 12:02:26,946 :major3 :  __datasetcreater() -210 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 201, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\series.py", line 939, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-04-25 12:02:26,946 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 12:02:26,946 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 12:02:46,804 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:02:46,804 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:04:12,440 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:04:12,440 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:04:38,806 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:04:38,806 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:09:22,898 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:09:22,898 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:11:59,672 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:11:59,680 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:14:44,645 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:14:44,645 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:16:53,340 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:16:53,340 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:21:28,016 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:21:28,016 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:29:01,576 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:29:01,576 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:35:03,426 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:35:03,426 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:36:32,085 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:36:32,085 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:43:01,844 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:43:01,844 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:43:36,588 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:43:36,588 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:46:33,111 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:46:33,111 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:49:01,470 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:49:01,470 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:52:15,505 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:52:15,505 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:53:40,617 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:53:40,618 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:54:35,101 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 12:54:35,101 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 12:54:35,101 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 12:54:35,101 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 12:54:35,101 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 12:54:35,101 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 12:54:35,101 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ INFO :  2022-04-25 12:54:37,201 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ INFO :  2022-04-25 12:54:37,202 :major3 :    __modelCreater() -328 ] SVC,kernel='linear',decision_function_shape='ovr',C=float(1.6),
+[ INFO :  2022-04-25 12:54:37,202 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 12:54:37,202 :major3 :         train_get() -492 ] SVC
+[ INFO :  2022-04-25 12:54:37,202 :major3 :         train_get() -506 ] SVC
+[ INFO :  2022-04-25 12:54:37,274 :major3 :         train_get() -508 ] final fitting completed successfully
+[ ERROR :  2022-04-25 12:54:37,333 :major3 :  __datasetcreater() -210 ] read write error [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 205, in __datasetcreater
+    pd.DataFrame([new_model.iloc[0,:]]).to_csv(r"C:\Users\nemam\Untitled Folder\Major\_specificdataset.csv",sep =',',index = False,mode='a+',header=False)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 237, in save
+    with get_handle(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'
+
+[ INFO :  2022-04-25 12:54:37,333 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 12:54:37,333 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 12:55:45,431 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:55:45,431 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:56:40,861 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ ERROR :  2022-04-25 12:56:40,861 :major3 :        __rchecker() -273 ] classification was selected but Regression model was givenLinearRegressionTraceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 271, in __rchecker
+    raise Exception("classification was selected but Regression model was given"+i)
+Exception: classification was selected but Regression model was givenLinearRegression
+
+[ INFO :  2022-04-25 12:56:40,861 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 12:56:40,861 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 12:56:40,861 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 12:56:40,861 :major3 :    __modelCreater() -325 ] LinearRegression,None
+[ INFO :  2022-04-25 12:56:40,861 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 12:56:40,861 :major3 :    __modelCreater() -325 ] Ridge,None
+[ INFO :  2022-04-25 12:56:40,861 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 12:56:40,861 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ INFO :  2022-04-25 12:56:41,083 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ INFO :  2022-04-25 12:56:41,084 :major3 :    __modelCreater() -328 ] LinearRegression,normalize=float(True),fit_intercept=float(True),copy_X=float(False),
+[ INFO :  2022-04-25 12:56:41,084 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 12:56:41,084 :major3 :         train_get() -492 ] LinearRegression
+[ INFO :  2022-04-25 12:56:41,084 :major3 :         train_get() -506 ] LinearRegression
+[ INFO :  2022-04-25 12:56:41,087 :major3 :         train_get() -508 ] final fitting completed successfully
+[ ERROR :  2022-04-25 12:56:41,159 :major3 :  __datasetcreater() -210 ] read write error [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 205, in __datasetcreater
+    pd.DataFrame([new_model.iloc[0,:]]).to_csv(r"C:\Users\nemam\Untitled Folder\Major\_specificdataset.csv",sep =',',index = False,mode='a+',header=False)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 237, in save
+    with get_handle(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'
+
+[ INFO :  2022-04-25 12:56:41,159 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 12:56:41,159 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 12:57:20,698 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:57:20,698 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:58:07,220 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-25 12:58:07,220 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-25 12:58:17,263 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 12:58:17,263 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 12:58:49,564 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-25 12:58:49,564 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-25 12:58:50,749 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-25 12:58:51,210 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-04-25 12:59:15,871 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-25 12:59:15,871 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-25 12:59:15,901 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-04-25 13:02:14,582 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 13:02:14,582 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 13:04:40,687 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 13:04:40,709 :major3 :   startRegression() -601 ] startRegression completed successfully
+[ INFO :  2022-04-25 13:16:37,562 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 13:16:37,562 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 13:19:18,086 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 13:19:18,087 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 14:07:14,463 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 14:07:14,463 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 14:08:16,228 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 14:08:16,237 :major3 :   startRegression() -601 ] startRegression completed successfully
+[ INFO :  2022-04-25 14:20:31,785 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 14:20:31,785 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 14:21:33,671 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 14:21:33,671 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 14:22:10,057 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 14:22:10,072 :major3 :   startRegression() -601 ] startRegression completed successfully
+[ INFO :  2022-04-25 14:22:30,382 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 14:22:30,382 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 14:23:48,250 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 14:23:48,250 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 14:23:48,250 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 14:23:48,250 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 14:23:48,250 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 14:23:48,250 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 14:23:48,250 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ INFO :  2022-04-25 14:23:51,742 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ INFO :  2022-04-25 14:23:51,742 :major3 :    __modelCreater() -328 ] SVC,kernel='linear',decision_function_shape='ovo',C=float(1.6),
+[ INFO :  2022-04-25 14:23:51,742 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 14:23:51,742 :major3 :         train_get() -492 ] SVC
+[ INFO :  2022-04-25 14:23:51,742 :major3 :         train_get() -506 ] SVC
+[ INFO :  2022-04-25 14:23:51,835 :major3 :         train_get() -508 ] final fitting completed successfully
+[ ERROR :  2022-04-25 14:23:51,913 :major3 :  __datasetcreater() -210 ] read write error [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 205, in __datasetcreater
+    pd.DataFrame([new_model.iloc[0,:]]).to_csv(r"C:\Users\nemam\Untitled Folder\Major\_specificdataset.csv",sep =',',index = False,mode='a+',header=False)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 237, in save
+    with get_handle(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'
+
+[ INFO :  2022-04-25 14:23:51,913 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 14:23:51,913 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 14:25:52,139 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 14:25:52,139 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 14:26:34,902 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-25 14:26:34,902 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-25 14:26:36,580 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-04-25 14:26:37,172 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-04-25 14:26:50,093 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-25 14:26:50,096 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-25 14:26:50,232 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-04-25 14:54:59,927 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 14:54:59,927 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 14:55:42,447 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 14:55:42,486 :major3 :   startRegression() -601 ] startRegression completed successfully
+[ INFO :  2022-04-25 15:00:42,228 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:00:42,228 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:01:14,415 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 15:01:14,423 :major3 :   startRegression() -601 ] startRegression completed successfully
+[ INFO :  2022-04-25 15:04:19,919 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:04:19,919 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:04:52,645 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 15:04:52,653 :major3 :   startRegression() -601 ] startRegression completed successfully
+[ INFO :  2022-04-25 15:05:33,123 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:05:33,123 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:06:02,358 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 15:06:02,367 :major3 :   startRegression() -601 ] startRegression completed successfully
+[ INFO :  2022-04-25 15:08:40,074 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:08:40,074 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:09:08,412 :major3 :          __init__() -546 ] __datasetcreater completed successfully
+[ CRITICAL :  2022-04-25 15:09:08,429 :major3 :     startLogistic() -703 ] endog must be in the unit interval.
+[ INFO :  2022-04-25 15:09:08,429 :major3 :     startLogistic() -704 ] startLogistic completed successfully
+[ INFO :  2022-04-25 15:12:37,351 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:12:37,351 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:18:22,939 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:18:22,939 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:19:30,458 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:19:30,458 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:20:24,470 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:20:24,470 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:21:44,915 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:21:44,915 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:22:46,543 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:22:46,544 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:22:46,569 :major3 :     pcaReducation() -131 ] pcaReducation completed successfully
+[ INFO :  2022-04-25 15:24:56,086 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:24:56,086 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:25:45,326 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:25:45,326 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:27:40,880 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 15:27:40,880 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 15:27:40,880 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 15:27:40,880 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 15:27:40,880 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 15:27:40,880 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 15:27:40,880 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ INFO :  2022-04-25 15:27:45,082 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ INFO :  2022-04-25 15:27:45,082 :major3 :    __modelCreater() -328 ] SVC,kernel='linear',decision_function_shape='ovo',C=float(1.2),
+[ INFO :  2022-04-25 15:27:45,082 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 15:27:45,082 :major3 :         train_get() -492 ] SVC
+[ INFO :  2022-04-25 15:27:45,082 :major3 :         train_get() -506 ] SVC
+[ INFO :  2022-04-25 15:27:45,201 :major3 :         train_get() -508 ] final fitting completed successfully
+[ ERROR :  2022-04-25 15:27:45,286 :major3 :  __datasetcreater() -210 ] read write error [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 205, in __datasetcreater
+    pd.DataFrame([new_model.iloc[0,:]]).to_csv(r"C:\Users\nemam\Untitled Folder\Major\_specificdataset.csv",sep =',',index = False,mode='a+',header=False)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 237, in save
+    with get_handle(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'
+
+[ INFO :  2022-04-25 15:27:45,286 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 15:27:45,286 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 15:35:16,172 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:35:16,172 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:38:33,139 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 15:38:33,139 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 15:46:15,047 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-04-25 15:46:15,049 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-04-25 20:06:26,026 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 20:06:26,026 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 20:07:17,978 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 20:07:17,978 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 20:07:17,978 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 20:07:17,978 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 20:07:17,978 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 20:07:17,978 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 20:07:17,978 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ INFO :  2022-04-25 20:07:26,831 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ INFO :  2022-04-25 20:07:26,831 :major3 :    __modelCreater() -328 ] SVC,C=float(1.6),decision_function_shape='ovo',kernel='linear',
+[ INFO :  2022-04-25 20:07:26,831 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 20:07:26,831 :major3 :         train_get() -492 ] SVC
+[ INFO :  2022-04-25 20:07:26,831 :major3 :         train_get() -506 ] SVC
+[ INFO :  2022-04-25 20:07:26,942 :major3 :         train_get() -508 ] final fitting completed successfully
+[ ERROR :  2022-04-25 20:07:27,018 :major3 :  __datasetcreater() -210 ] read write error [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 205, in __datasetcreater
+    pd.DataFrame([new_model.iloc[0,:]]).to_csv(r"C:\Users\nemam\Untitled Folder\Major\_specificdataset.csv",sep =',',index = False,mode='a+',header=False)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 237, in save
+    with get_handle(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'
+
+[ INFO :  2022-04-25 20:07:27,018 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 20:07:27,018 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 20:08:47,632 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 20:08:47,632 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 20:09:37,046 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 20:09:37,046 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 20:09:37,046 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 20:09:37,046 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 20:09:37,046 :major3 :    __modelCreater() -325 ] LogisticRegression,None
+[ INFO :  2022-04-25 20:09:37,046 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 20:09:37,046 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ INFO :  2022-04-25 20:09:38,123 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ INFO :  2022-04-25 20:09:38,123 :major3 :    __modelCreater() -328 ] LogisticRegression,penalty='l2',C=float(1.2),
+[ INFO :  2022-04-25 20:09:38,123 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 20:09:38,123 :major3 :         train_get() -492 ] LogisticRegression
+[ INFO :  2022-04-25 20:09:38,123 :major3 :         train_get() -506 ] LogisticRegression
+[ INFO :  2022-04-25 20:09:38,213 :major3 :         train_get() -508 ] final fitting completed successfully
+[ ERROR :  2022-04-25 20:09:38,350 :major3 :  __datasetcreater() -210 ] read write error [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 205, in __datasetcreater
+    pd.DataFrame([new_model.iloc[0,:]]).to_csv(r"C:\Users\nemam\Untitled Folder\Major\_specificdataset.csv",sep =',',index = False,mode='a+',header=False)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 237, in save
+    with get_handle(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'
+
+[ INFO :  2022-04-25 20:09:38,350 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 20:09:38,350 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 20:12:36,732 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 20:12:36,732 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 20:13:35,956 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 20:13:35,956 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 20:13:35,956 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 20:13:35,956 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 20:13:35,956 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 20:13:35,956 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 20:13:35,956 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ INFO :  2022-04-25 20:13:39,501 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ INFO :  2022-04-25 20:13:39,510 :major3 :    __modelCreater() -328 ] SVC,kernel='linear',decision_function_shape='ovr',C=float(1.6),
+[ INFO :  2022-04-25 20:13:39,510 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 20:13:39,510 :major3 :         train_get() -492 ] SVC
+[ INFO :  2022-04-25 20:13:39,510 :major3 :         train_get() -506 ] SVC
+[ INFO :  2022-04-25 20:13:39,610 :major3 :         train_get() -508 ] final fitting completed successfully
+[ ERROR :  2022-04-25 20:13:39,690 :major3 :  __datasetcreater() -210 ] read write error [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 205, in __datasetcreater
+    pd.DataFrame([new_model.iloc[0,:]]).to_csv(r"C:\Users\nemam\Untitled Folder\Major\_specificdataset.csv",sep =',',index = False,mode='a+',header=False)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 237, in save
+    with get_handle(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'
+
+[ INFO :  2022-04-25 20:13:39,690 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 20:13:39,690 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-04-25 20:14:01,445 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-04-25 20:14:01,445 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-04-25 20:14:54,083 :major3 :     __mylogconfig() -102 ] Logging new SESSION
+[ INFO :  2022-04-25 20:14:54,083 :major3 :        __rchecker() -274 ] rchecker completed successfully
+[ INFO :  2022-04-25 20:14:54,083 :major3 :    __defaultscore() -291 ] defaultscore completed successfully
+[ INFO :  2022-04-25 20:14:54,083 :major3 :          __init__() -91 ] construtor completed successfully
+[ INFO :  2022-04-25 20:14:54,083 :major3 :    __modelCreater() -325 ] SVC,None
+[ INFO :  2022-04-25 20:14:54,083 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 20:14:54,083 :major3 :       __hyperbind() -353 ] hyperbind done Successfully
+[ INFO :  2022-04-25 20:14:56,111 :major3 :      __modeltuner() -421 ] Traning & tuning done Successfully--
+[ INFO :  2022-04-25 20:14:56,111 :major3 :    __modelCreater() -328 ] SVC,kernel='linear',decision_function_shape='ovo',C=float(1.6),
+[ INFO :  2022-04-25 20:14:56,111 :major3 :    __modelCreater() -335 ] Successfull model created
+[ INFO :  2022-04-25 20:14:56,111 :major3 :         train_get() -492 ] SVC
+[ INFO :  2022-04-25 20:14:56,111 :major3 :         train_get() -506 ] SVC
+[ INFO :  2022-04-25 20:14:56,244 :major3 :         train_get() -508 ] final fitting completed successfully
+[ ERROR :  2022-04-25 20:14:56,374 :major3 :  __datasetcreater() -210 ] read write error [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'Traceback (most recent call last):
+  File "C:\Users\divya\Downloads\Major\major0_1.py", line 205, in __datasetcreater
+    pd.DataFrame([new_model.iloc[0,:]]).to_csv(r"C:\Users\nemam\Untitled Folder\Major\_specificdataset.csv",sep =',',index = False,mode='a+',header=False)
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\core\generic.py", line 3466, in to_csv
+    return DataFrameRenderer(formatter).to_csv(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\format.py", line 1105, in to_csv
+    csv_formatter.save()
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\formats\csvs.py", line 237, in save
+    with get_handle(
+  File "C:\Users\divya\anaconda3\lib\site-packages\pandas\io\common.py", line 702, in get_handle
+    handle = open(
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\nemam\\Untitled Folder\\Major\\_specificdataset.csv'
+
+[ INFO :  2022-04-25 20:14:56,374 :major3 :  __datasetcreater() -211 ] __datasetcreater completed successfully
+[ INFO :  2022-04-25 20:14:56,374 :major3 :     startlearning() -440 ] all process almost completed successfully
+[ INFO :  2022-05-03 15:14:33,253 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-05-03 15:14:33,265 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-05-03 15:24:57,679 :major3 : _init_num_threads() -159 ] NumExpr defaulting to 8 threads.
+[ INFO :  2022-05-03 15:26:05,340 :major3 :     __mylogconfig() -101 ] Logging new SESSION
+[ INFO :  2022-05-03 15:26:05,340 :major3 :        __rchecker() -273 ] rchecker completed successfully
+[ INFO :  2022-05-03 15:26:05,340 :major3 :    __defaultscore() -290 ] defaultscore completed successfully
+[ INFO :  2022-05-03 15:26:05,348 :major3 :          __init__() -90 ] construtor completed successfully
+[ INFO :  2022-05-03 15:26:05,348 :major3 :    __modelCreater() -324 ] RandomForestClassifier,None
+[ INFO :  2022-05-03 15:26:05,349 :major3 :    __modelCreater() -334 ] Successfull model created
+[ INFO :  2022-05-03 15:26:05,349 :major3 :       __hyperbind() -352 ] hyperbind done Successfully
+[ ERROR :  2022-05-03 15:26:05,386 :major3 :      __modeltuner() -416 ] invalid metric or invalaid value of parameter	scoring should either be a single string or callable for single metric evaluation or a list/tuple of strings or a dict of scorer name mapped to the callable for multiple metric evaluation. Got 2 of type <class 'int'>Traceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 404, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\utils\validation.py", line 72, in inner_f
+    return f(**kwargs)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\model_selection\_search.py", line 654, in fit
+    scorers, self.multimetric_ = _check_multimetric_scoring(
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\metrics\_scorer.py", line 529, in _check_multimetric_scoring
+    raise ValueError(err_msg_generic)
+ValueError: scoring should either be a single string or callable for single metric evaluation or a list/tuple of strings or a dict of scorer name mapped to the callable for multiple metric evaluation. Got 2 of type <class 'int'>
+
+[ INFO :  2022-05-03 15:26:05,388 :major3 :      __modeltuner() -420 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-05-03 15:26:05,390 :major3 :         train_get() -503 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 476, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 879, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 1496, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 1437, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-05-03 15:26:05,392 :major3 :  __datasetcreater() -209 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 200, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\series.py", line 879, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-05-03 15:26:05,392 :major3 :  __datasetcreater() -210 ] __datasetcreater completed successfully
+[ INFO :  2022-05-03 15:26:05,392 :major3 :     startlearning() -439 ] all process almost completed successfully
+[ INFO :  2022-05-03 15:26:08,804 :major3 :     __mylogconfig() -101 ] Logging new SESSION
+[ INFO :  2022-05-03 15:26:08,804 :major3 :        __rchecker() -273 ] rchecker completed successfully
+[ INFO :  2022-05-03 15:26:08,804 :major3 :    __defaultscore() -290 ] defaultscore completed successfully
+[ INFO :  2022-05-03 15:26:08,804 :major3 :          __init__() -90 ] construtor completed successfully
+[ INFO :  2022-05-03 15:26:08,804 :major3 :    __modelCreater() -324 ] RandomForestClassifier,None
+[ INFO :  2022-05-03 15:26:08,804 :major3 :    __modelCreater() -334 ] Successfull model created
+[ INFO :  2022-05-03 15:26:08,805 :major3 :       __hyperbind() -352 ] hyperbind done Successfully
+[ ERROR :  2022-05-03 15:26:08,805 :major3 :      __modeltuner() -416 ] invalid metric or invalaid value of parameter	scoring should either be a single string or callable for single metric evaluation or a list/tuple of strings or a dict of scorer name mapped to the callable for multiple metric evaluation. Got 2 of type <class 'int'>Traceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 404, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\utils\validation.py", line 72, in inner_f
+    return f(**kwargs)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\model_selection\_search.py", line 654, in fit
+    scorers, self.multimetric_ = _check_multimetric_scoring(
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\metrics\_scorer.py", line 529, in _check_multimetric_scoring
+    raise ValueError(err_msg_generic)
+ValueError: scoring should either be a single string or callable for single metric evaluation or a list/tuple of strings or a dict of scorer name mapped to the callable for multiple metric evaluation. Got 2 of type <class 'int'>
+
+[ INFO :  2022-05-03 15:26:08,806 :major3 :      __modeltuner() -420 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-05-03 15:26:08,807 :major3 :         train_get() -503 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 476, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 879, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 1496, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 1437, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-05-03 15:26:08,807 :major3 :  __datasetcreater() -209 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 200, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\series.py", line 879, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-05-03 15:26:08,807 :major3 :  __datasetcreater() -210 ] __datasetcreater completed successfully
+[ INFO :  2022-05-03 15:26:08,807 :major3 :     startlearning() -439 ] all process almost completed successfully
+[ INFO :  2022-05-03 15:26:12,929 :major3 :     __mylogconfig() -101 ] Logging new SESSION
+[ INFO :  2022-05-03 15:26:12,929 :major3 :        __rchecker() -273 ] rchecker completed successfully
+[ INFO :  2022-05-03 15:26:12,929 :major3 :    __defaultscore() -290 ] defaultscore completed successfully
+[ INFO :  2022-05-03 15:26:12,929 :major3 :          __init__() -90 ] construtor completed successfully
+[ INFO :  2022-05-03 15:26:12,929 :major3 :    __modelCreater() -324 ] RandomForestClassifier,None
+[ INFO :  2022-05-03 15:26:12,929 :major3 :    __modelCreater() -334 ] Successfull model created
+[ INFO :  2022-05-03 15:26:12,929 :major3 :       __hyperbind() -352 ] hyperbind done Successfully
+[ ERROR :  2022-05-03 15:26:12,930 :major3 :      __modeltuner() -416 ] invalid metric or invalaid value of parameter	scoring should either be a single string or callable for single metric evaluation or a list/tuple of strings or a dict of scorer name mapped to the callable for multiple metric evaluation. Got 2 of type <class 'int'>Traceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 404, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\utils\validation.py", line 72, in inner_f
+    return f(**kwargs)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\model_selection\_search.py", line 654, in fit
+    scorers, self.multimetric_ = _check_multimetric_scoring(
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\metrics\_scorer.py", line 529, in _check_multimetric_scoring
+    raise ValueError(err_msg_generic)
+ValueError: scoring should either be a single string or callable for single metric evaluation or a list/tuple of strings or a dict of scorer name mapped to the callable for multiple metric evaluation. Got 2 of type <class 'int'>
+
+[ INFO :  2022-05-03 15:26:12,931 :major3 :      __modeltuner() -420 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-05-03 15:26:12,932 :major3 :         train_get() -503 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 476, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 879, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 1496, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 1437, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-05-03 15:26:12,932 :major3 :  __datasetcreater() -209 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 200, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\series.py", line 879, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-05-03 15:26:12,932 :major3 :  __datasetcreater() -210 ] __datasetcreater completed successfully
+[ INFO :  2022-05-03 15:26:12,933 :major3 :     startlearning() -439 ] all process almost completed successfully
+[ INFO :  2022-05-03 15:26:22,015 :major3 :     __mylogconfig() -101 ] Logging new SESSION
+[ INFO :  2022-05-03 15:26:22,015 :major3 :        __rchecker() -273 ] rchecker completed successfully
+[ INFO :  2022-05-03 15:26:22,015 :major3 :    __defaultscore() -290 ] defaultscore completed successfully
+[ INFO :  2022-05-03 15:26:22,016 :major3 :          __init__() -90 ] construtor completed successfully
+[ INFO :  2022-05-03 15:26:22,016 :major3 :    __modelCreater() -324 ] RandomForestClassifier,None
+[ INFO :  2022-05-03 15:26:22,016 :major3 :    __modelCreater() -334 ] Successfull model created
+[ INFO :  2022-05-03 15:26:22,016 :major3 :       __hyperbind() -352 ] hyperbind done Successfully
+[ ERROR :  2022-05-03 15:26:22,017 :major3 :      __modeltuner() -416 ] invalid metric or invalaid value of parameter	scoring should either be a single string or callable for single metric evaluation or a list/tuple of strings or a dict of scorer name mapped to the callable for multiple metric evaluation. Got 2 of type <class 'int'>Traceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 404, in __modeltuner
+    clf.fit(self.X,self.y)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\utils\validation.py", line 72, in inner_f
+    return f(**kwargs)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\model_selection\_search.py", line 654, in fit
+    scorers, self.multimetric_ = _check_multimetric_scoring(
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\sklearn\metrics\_scorer.py", line 529, in _check_multimetric_scoring
+    raise ValueError(err_msg_generic)
+ValueError: scoring should either be a single string or callable for single metric evaluation or a list/tuple of strings or a dict of scorer name mapped to the callable for multiple metric evaluation. Got 2 of type <class 'int'>
+
+[ INFO :  2022-05-03 15:26:22,019 :major3 :      __modeltuner() -420 ] Traning & tuning done Successfully--
+[ CRITICAL :  2022-05-03 15:26:22,019 :major3 :         train_get() -503 ] single positional indexer is out-of-boundsTraceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 476, in train_get
+    model = str(df.iloc[0][0])
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 879, in __getitem__
+    return self._getitem_axis(maybe_callable, axis=axis)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 1496, in _getitem_axis
+    self._validate_integer(key, axis)
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\indexing.py", line 1437, in _validate_integer
+    raise IndexError("single positional indexer is out-of-bounds")
+IndexError: single positional indexer is out-of-bounds
+
+[ ERROR :  2022-05-03 15:26:22,020 :major3 :  __datasetcreater() -209 ] read write error index 0 is out of bounds for axis 0 with size 0Traceback (most recent call last):
+  File "C:\Users\nemam\Desktop\ALL_COMBINE_DATASET\Major\Major\major0_1.py", line 200, in __datasetcreater
+    for i,j in new_model['best_params'][0].items():
+  File "C:\Users\nemam\anaconda3\envs\cse_major\lib\site-packages\pandas\core\series.py", line 879, in __getitem__
+    return self._values[key]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+
+[ INFO :  2022-05-03 15:26:22,020 :major3 :  __datasetcreater() -210 ] __datasetcreater completed successfully
+[ INFO :  2022-05-03 15:26:22,020 :major3 :     startlearning() -439 ] all process almost completed successfully
+[ INFO :  2022-05-03 15:27:29,026 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-05-03 15:27:29,026 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-05-03 15:27:31,818 :major3 : __find_clusters_elbow() -153 ] __find_clusters_elbow completed successfully
+[ INFO :  2022-05-03 15:27:33,155 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-05-03 15:28:04,369 :major3 :     __mylogconfig() -56 ] Logging new SESSION
+[ INFO :  2022-05-03 15:28:04,370 :major3 :          __init__() -44 ] construtor completed successfully
+[ INFO :  2022-05-03 15:28:04,472 :major3 :    kmeanslearning() -177 ] kmeanslearning completed successfully
+[ INFO :  2022-05-03 18:20:14,544 :major3 :     __mylogconfig() -108 ] Logging new SESSION
+[ INFO :  2022-05-03 18:20:14,544 :major3 :          __init__() -36 ] DReductionCore construtor completed successfully
+[ INFO :  2022-05-03 18:20:30,345 :major3 : _init_num_threads() -159 ] NumExpr defaulting to 8 threads.
